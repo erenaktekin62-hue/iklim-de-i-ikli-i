@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>İklim Değişikliğinin Zararları</title>
+
 </head>
 <body>
 
