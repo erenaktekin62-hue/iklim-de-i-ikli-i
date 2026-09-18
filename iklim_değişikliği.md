@@ -5,7 +5,10 @@ Bu projede **iklim değişikliği** hakkında temel bilgiler yer almaktadır.
 Sitemizde iklim değişikliğini üç ana başlık altında inceleyebilirsiniz:
 
 ### ZARARLARI
-İklim değişikliğinin doğaya, canlılara ve insan yaşamına olan etkilerini inceleyebilirsiniz.
+İklim değişikliğinin doğaya, canlılara ve insan yaşamına olan etkilerini inceleyebilirsiniz.   <p align="center">
+                                                                                              <img src="tenor.gif" width="250">
+                                                                                                  </p>
+
 
 ### OLUŞMA SEBEPLERİ
 İklim değişikliğine neden olan başlıca faktörleri ve insan faaliyetlerinin etkisini öğrenebilirsiniz.
