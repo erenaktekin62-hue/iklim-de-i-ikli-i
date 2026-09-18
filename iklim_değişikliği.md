@@ -11,4 +11,7 @@ Sitemizde iklim değişikliğini üç ana başlık altında inceleyebilirsiniz:
 İklim değişikliğine neden olan başlıca faktörleri ve insan faaliyetlerinin etkisini öğrenebilirsiniz.
 
 ### NASIL ÖNLENEBİLİR?
-İklim değişikliğinin etkilerini azaltmak için uygulanabilecek yöntemleri keşfedebilirsiniz.
+İklim değişikliğinin etkilerini azaltmak için uygulanabilecek yöntemleri keşfedebilirsiniz
+<p align="center">
+  <img src="tenor.gif" width="250">
+</p>
